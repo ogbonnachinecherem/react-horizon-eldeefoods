@@ -16,13 +16,13 @@ function Navbar () {
                       <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto">
                           <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Home</a>
+                            <a class="nav-link" href="#sec2">Home</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link " href="#about">About US</a>
+                            <a class="nav-link " href="#sec3">About US</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="#contact">Contact Us</a>
+                            <a class="nav-link" href="#sec4">Contact Us</a>
                           </li>
                        </ul>
                      </div>

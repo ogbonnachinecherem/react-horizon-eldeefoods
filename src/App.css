@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.ms {
+  text-align: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -34,5 +36,16 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+@media only screen and (max-width: 600px) {
+  img{
+    width: 100%;
+  }
+  .insurance {
+    text-align: center;
+  }
+  .ms {
+    font-size: 30px;
   }
 }

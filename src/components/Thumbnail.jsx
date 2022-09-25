@@ -6,7 +6,7 @@ function Thumbnail () {
         <div class="container thumb ">
           <div class="row">
             <div class="col-md-12">
-              <h1 style={{textAlign: "center"}}>Our Most Ordered</h1>
+              <h1 class="ms">Our Most Ordered</h1>
             </div>
           </div>
         	<div class="row">
